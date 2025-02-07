@@ -1,4 +1,4 @@
-package org.main.level2Exer1.Model;
+package org.example.level2Exer1.Model;
 
     @SerializeToJSON(path = "myFolderJSON")
     public class Person {

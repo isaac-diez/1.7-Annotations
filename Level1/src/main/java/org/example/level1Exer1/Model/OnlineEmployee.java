@@ -1,4 +1,4 @@
-package org.level1Exer2.Model;
+package org.example.level1Exer1.Model;
 
 public class OnlineEmployee extends Employee {
 
@@ -8,7 +8,6 @@ public class OnlineEmployee extends Employee {
         super(name, lastName, hourlyRate);
     }
 
-    @Deprecated
     @Override
     public void calculateWage(int hours) {
 

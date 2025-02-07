@@ -1,4 +1,4 @@
-package org.level1Exer2.Model;
+package org.example.level1Exer2.Model;
 
 public class OfficeEmployee extends Employee {
 

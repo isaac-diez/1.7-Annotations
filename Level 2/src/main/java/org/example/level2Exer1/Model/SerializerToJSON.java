@@ -1,4 +1,4 @@
-package org.main.level2Exer1.Model;
+package org.example.level2Exer1.Model;
 
 import java.io.File;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package org.level1Exer1.Model;
+package org.example.level1Exer2.Model;
 
 public abstract class Employee {
 
@@ -12,13 +12,7 @@ public abstract class Employee {
         this.hourlyRate = priceHour;
     }
 
-    public String getName() {
-        return name;
-    }
 
-    public String getLastName() {
-        return lastName;
-    }
 
     public int getHourlyRate() {
         return hourlyRate;
